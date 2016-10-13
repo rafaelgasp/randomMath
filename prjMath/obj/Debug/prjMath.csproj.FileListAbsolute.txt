@@ -1,0 +1,30 @@
+C:\Users\aluno\Desktop\prjMath\prjMath\Bin\Debug\ApplicationIcon.png
+C:\Users\aluno\Desktop\prjMath\prjMath\Bin\Debug\Background.png
+C:\Users\aluno\Desktop\prjMath\prjMath\Bin\Debug\prjMath.dll
+C:\Users\aluno\Desktop\prjMath\prjMath\Bin\Debug\prjMath.pdb
+C:\Users\aluno\Desktop\prjMath\prjMath\Bin\Debug\AppManifest.xaml
+C:\Users\aluno\Desktop\prjMath\prjMath\Bin\Debug\prjMath.xap
+C:\Users\aluno\Desktop\prjMath\prjMath\obj\Debug\App.g.i.cs
+C:\Users\aluno\Desktop\prjMath\prjMath\obj\Debug\MainPage.g.i.cs
+C:\Users\aluno\Desktop\prjMath\prjMath\obj\Debug\prjMath.g.resources
+C:\Users\aluno\Desktop\prjMath\prjMath\obj\Debug\prjMath.dll
+C:\Users\aluno\Desktop\prjMath\prjMath\obj\Debug\prjMath.pdb
+C:\Users\aluno\Desktop\prjMath\prjMath\obj\Debug\XapCacheFile.xml
+C:\Users\aluno\Desktop\prjMath\prjMath\obj\Debug\ConfigPage.g.i.cs
+C:\Users\aluno\Desktop\prjMath\prjMath\obj\Debug\GamePage.g.i.cs
+C:\Users\aluno\Desktop\prjMath\prjMath\obj\Debug\HighScoresPage.g.i.cs
+F:\prjMath\prjMath\Bin\Debug\ApplicationIcon.png
+F:\prjMath\prjMath\Bin\Debug\Background.png
+F:\prjMath\prjMath\Bin\Debug\Random Math.dll
+F:\prjMath\prjMath\Bin\Debug\Random Math.pdb
+F:\prjMath\prjMath\Bin\Debug\AppManifest.xaml
+F:\prjMath\prjMath\Bin\Debug\Random Math.xap
+F:\prjMath\prjMath\obj\Debug\App.g.cs
+F:\prjMath\prjMath\obj\Debug\ConfigPage.g.cs
+F:\prjMath\prjMath\obj\Debug\GamePage.g.cs
+F:\prjMath\prjMath\obj\Debug\HighScoresPage.g.cs
+F:\prjMath\prjMath\obj\Debug\MainPage.g.cs
+F:\prjMath\prjMath\obj\Debug\Random Math.g.resources
+F:\prjMath\prjMath\obj\Debug\Random Math.dll
+F:\prjMath\prjMath\obj\Debug\Random Math.pdb
+F:\prjMath\prjMath\obj\Debug\XapCacheFile.xml

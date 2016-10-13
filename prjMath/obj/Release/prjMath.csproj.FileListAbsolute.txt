@@ -1,0 +1,31 @@
+C:\Users\aluno\Desktop\prjMath\prjMath\Bin\Release\ApplicationIcon.png
+C:\Users\aluno\Desktop\prjMath\prjMath\Bin\Release\Background.png
+C:\Users\aluno\Desktop\prjMath\prjMath\Bin\Release\Random Math.dll
+C:\Users\aluno\Desktop\prjMath\prjMath\Bin\Release\Random Math.pdb
+C:\Users\aluno\Desktop\prjMath\prjMath\Bin\Release\AppManifest.xaml
+C:\Users\aluno\Desktop\prjMath\prjMath\Bin\Release\Random Math.xap
+C:\Users\aluno\Desktop\prjMath\prjMath\obj\Release\App.g.i.cs
+C:\Users\aluno\Desktop\prjMath\prjMath\obj\Release\ConfigPage.g.i.cs
+C:\Users\aluno\Desktop\prjMath\prjMath\obj\Release\GamePage.g.i.cs
+C:\Users\aluno\Desktop\prjMath\prjMath\obj\Release\HighScoresPage.g.i.cs
+C:\Users\aluno\Desktop\prjMath\prjMath\obj\Release\MainPage.g.i.cs
+C:\Users\aluno\Desktop\prjMath\prjMath\obj\Release\Random Math.g.resources
+C:\Users\aluno\Desktop\prjMath\prjMath\obj\Release\Random Math.dll
+C:\Users\aluno\Desktop\prjMath\prjMath\obj\Release\Random Math.pdb
+C:\Users\aluno\Desktop\prjMath\prjMath\obj\Release\XapCacheFile.xml
+F:\prjMath\prjMath\Bin\Release\ApplicationIcon.png
+F:\prjMath\prjMath\Bin\Release\Background.png
+F:\prjMath\prjMath\Bin\Release\Random Math.dll
+F:\prjMath\prjMath\Bin\Release\Random Math.pdb
+F:\prjMath\prjMath\Bin\Release\AppManifest.xaml
+F:\prjMath\prjMath\Bin\Release\Random Math.xap
+F:\prjMath\prjMath\obj\Release\App.g.cs
+F:\prjMath\prjMath\obj\Release\ConfigPage.g.cs
+F:\prjMath\prjMath\obj\Release\GamePage.g.cs
+F:\prjMath\prjMath\obj\Release\HighScoresPage.g.cs
+F:\prjMath\prjMath\obj\Release\MainPage.g.cs
+F:\prjMath\prjMath\obj\Release\Random Math.g.resources
+F:\prjMath\prjMath\obj\Release\Random Math.dll
+F:\prjMath\prjMath\obj\Release\Random Math.pdb
+F:\prjMath\prjMath\obj\Release\XapCacheFile.xml
+F:\prjMath\prjMath\obj\Release\prjMath.csprojResolveAssemblyReference.cache
